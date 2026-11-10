@@ -1,0 +1,6 @@
+{
+  "name": "SMKN 3 TANA TORAJA",
+  "description": "Media Pembelajaran Digital SMKN 3 Tana Toraja untuk guru dan siswa dengan manajemen kelas, import Excel, video pembelajaran, modul PDF, LKPD, kuis interaktif, dan rekap nilai.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
